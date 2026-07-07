@@ -65,7 +65,6 @@ Medium : 10
 
 Low : 7
 
-Informational : 1
 
 ### Repository Contents
 
