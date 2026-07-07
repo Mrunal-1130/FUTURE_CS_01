@@ -1,19 +1,19 @@
 # Web Application Security Assessment
 
-## About the Project
+### About the Project
 
 This repository contains the documentation and results of a web application security assessment performed against an intentionally vulnerable website. The objective of this project was to evaluate the application's security posture, identify common vulnerabilities, determine their risk levels, and recommend practical mitigation measures.
 
 The assessment was carried out using industry-standard security tools and follows a structured vulnerability assessment methodology.
 
-## Target Website
+### Target Website
 
 Website: http://testaspnet.vulnweb.com
 
 Assessment Type: External Web Application Vulnerability Assessment
 
 
-## Assessment Scope
+### Assessment Scope
 
 The security review focused on examining the publicly accessible web application without performing any destructive or unauthorized exploitation.
 
@@ -28,7 +28,7 @@ Activities performed during the assessment include:
 - Classifying identified vulnerabilities based on severity
 - Providing remediation recommendations for each finding
 
-## Security Tools Used
+### Security Tools Used
 
 Nmap
 
@@ -38,7 +38,7 @@ OWASP ZAP
 
 Used to conduct passive web application scanning, inspect HTTP responses, identify missing security headers, analyze cookie configurations, and detect common web security issues.
 
-## Assessment Highlights
+### Assessment Highlights
 
 The assessment revealed several security weaknesses that could increase the application's exposure to common attacks.
 
@@ -55,7 +55,7 @@ Some of the major findings include:
 
 No Critical or High severity vulnerabilities were identified during the assessment.
 
-## Risk Distribution
+### Risk Distribution
 
 Critical : 0
 
@@ -67,7 +67,7 @@ Low : 7
 
 Informational : 1
 
-## Repository Contents
+### Repository Contents
 
 - Vulnerability Assessment Report
 - Nmap Scan Results
@@ -76,7 +76,7 @@ Informational : 1
 - Security Findings Report
 - README File
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 This project demonstrates practical knowledge in:
 
@@ -88,6 +88,4 @@ This project demonstrates practical knowledge in:
 - Technical Documentation
 - Security Reporting
 
-## Disclaimer
 
-The assessment was performed only against an intentionally vulnerable web application created for educational and security testing purposes. The techniques demonstrated in this repository were used in a controlled environment and should only be applied to systems for which proper authorization has been obtained.
